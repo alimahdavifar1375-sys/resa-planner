@@ -1,0 +1,26 @@
+{
+  "name": "پلنر هوشمند رسا",
+  "short_name": "پلنر رسا",
+  "description": "برنامه‌ریزی اهداف، فعالیت‌ها، یادآورها و مدیریت مالی",
+  "lang": "fa",
+  "dir": "rtl",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f1f4f6",
+  "theme_color": "#142c40",
+  "icons": [
+    {
+      "src": "resa-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "resa-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
